@@ -14,8 +14,8 @@
   <img align="center" alt="bispo-ft" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="bispo-msql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="bispo-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="right" alt="bispo-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/26880d26464778df516381b3b9fbc7cc.gif"/>
-  ![gifgithubbsp](https://user-images.githubusercontent.com/85528622/169903420-2ac620f0-bb13-44ac-9b69-feb575e07870.gif)
+  <img align="right" alt="bispo-gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/85528622/169903420-2ac620f0-bb13-44ac-9b69-feb575e07870.gif"/>
+  
 
 </div>
  
