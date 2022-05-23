@@ -43,6 +43,6 @@
   
 </div>
  
-<h3> IB:</h3><a href="https://github.com/rafaballerini"> @rafaballerini</a>
+IB:<a color="gray "href="https://github.com/rafaballerini"> @rafaballerini</a>
   
   
