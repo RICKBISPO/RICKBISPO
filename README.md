@@ -3,11 +3,7 @@
 <div>
   <a href="https://github.com/RICKBISPO">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RICKBISPO&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
- </div>
-<!--
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RICKBISPO&layout=compact&langs_count=7&theme=dark"/>
 </div>
--->
   
  <br>
   
@@ -18,7 +14,7 @@
   <img align="center" alt="bispo-ft" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="bispo-msql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="bispo-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="right" alt="bispo-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/26880d26464778df516381b3b9fbc7cc.gif">
+  
 </div>
  
   ##
