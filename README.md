@@ -16,7 +16,7 @@
   <img align="center" alt="bispo-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="bispo-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="bispo-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="bispo-php" height="30" width="40" src="![image](https://github.com/RICKBISPO/RICKBISPO/assets/85528622/8a20b6d3-2c47-41cd-9208-89950b0d1abf)" />
+  <img align="center" alt="bispo-php" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Webysther_20160423_-_Elephpant.svg" />
   <img align="center" alt="bispo-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  </div>
  
