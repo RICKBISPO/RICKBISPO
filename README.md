@@ -30,11 +30,7 @@ target="_blank"></a>
  
 <br>
  
-<div align="center">
-  
-  ![Snake animation](https://github.com/RICKBISPO/RICKBISPO/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
  
 
   
